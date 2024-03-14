@@ -1,5 +1,0 @@
-{
-	"watch": ["views/partials/*"],
-	"ext": "js,html",
-	"exec": "node app.js"
-}
